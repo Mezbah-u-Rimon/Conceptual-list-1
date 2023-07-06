@@ -1,0 +1,39 @@
+.img-cursor {
+    color: rgb(7, 141, 96);
+    /* cursor: pointer; */
+    /* cursor: url(../Module-2/img/pizza.png), auto; */
+}
+
+
+/* flip box */
+
+.container {
+    height: 500px;
+    border: 2px solid green;
+    display: flex;
+    /* justify-content: center;  justify-conten row borabor maj khane nia asbe */
+    justify-content: space-around;
+    /* justify-content: space-between; */
+    align-items: center;
+    /*align-items colum borabor maj khane nia asbe  */
+    /* flex-direction: row-reverse; div gula reverse theke suru hobe */
+}
+
+.box {
+    height: 150px;
+    background-color: blueviolet;
+    padding: 20px;
+    width: 200px;
+}
+
+.box2 {
+    background-color: red;
+}
+
+.box3 {
+    background-color: rgb(255, 162, 0);
+}
+
+.box4 {
+    background-color: rgb(200, 0, 255);
+}
