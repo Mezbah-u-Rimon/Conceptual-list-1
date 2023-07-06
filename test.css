@@ -11,7 +11,7 @@
     height: 500px;
     border: 2px solid green;
     display: flex;
-    /* justify-content: center;  justify-conten row borabor maj khane nia asbe */
+    /* justify-content: center;  justify-content row borabor maj khane nia asbe */
     justify-content: space-around;
     /* justify-content: space-between; */
     align-items: center;
